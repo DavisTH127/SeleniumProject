@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dea5a501-5bf7-4d0f-8107-99ebdd4bfdab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyFirstSelenium$LoginPageTest2.ic" NAME="LoginPageTest2 Coverage Results" MODIFIED="1582398769355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.platform.project.test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>browser</find>
+    </findStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/@types/events/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@types/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@types/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/chromedriver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extract-zip/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fd-slicer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ip-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/p-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tcp-port-used/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tcp-port-used/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tcp-port-used/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tough-cookie/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yauzl/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectId" id="1ZxhRPxq3fgTGOsxAF81XlsknZC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582876777048" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/resources/driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginPageTest">
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.test" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.test.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.openHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.test" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.test.HomePageTest" />
+      <option name="METHOD_NAME" value="openHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.test" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.test.LinkPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.test" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.test.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.test" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.test.LoginPageTest3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.HomePageTest" />
+      <item itemvalue="TestNG.LoginPageTest3" />
+      <item itemvalue="TestNG.LinkPageTest" />
+      <item itemvalue="TestNG.HomePageTest.openHomePage" />
+      <item itemvalue="TestNG.LoginPageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginPageTest" />
+        <item itemvalue="TestNG.LinkPageTest" />
+        <item itemvalue="TestNG.HomePageTest.openHomePage" />
+        <item itemvalue="TestNG.LoginPageTest3" />
+        <item itemvalue="TestNG.HomePageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea5a501-5bf7-4d0f-8107-99ebdd4bfdab" name="Default Changelist" comment="" />
+      <created>1576956564973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576956564973</updated>
+      <workItem from="1576956569782" duration="15914000" />
+      <workItem from="1577433303373" duration="1000" />
+      <workItem from="1578161949761" duration="13553000" />
+      <workItem from="1578183071760" duration="693000" />
+      <workItem from="1578185281936" duration="611000" />
+      <workItem from="1579331940758" duration="5114000" />
+      <workItem from="1579499211031" duration="1296000" />
+      <workItem from="1582342546554" duration="18850000" />
+      <workItem from="1582876297825" duration="696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56728000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1912" y="-333" key="#Project_Structure" timestamp="1586493849411">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state x="354" y="96" key="#Project_Structure/0.23.1440.833/1440.-426.1920.1057@0.23.1440.833" timestamp="1585786669405" />
+    <state x="1912" y="-333" key="#Project_Structure/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586493849411" />
+    <state x="1862" y="-81" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586493773121">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state x="1862" y="-81" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586493773121" />
+    <state width="1178" height="264" key="GridCell.Tab.0.bottom" timestamp="1586494871966">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state width="1048" height="191" key="GridCell.Tab.0.bottom/0.23.1440.833/1440.-426.1920.1057@0.23.1440.833" timestamp="1585786720239" />
+    <state width="1178" height="264" key="GridCell.Tab.0.bottom/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586494871966" />
+    <state width="1178" height="264" key="GridCell.Tab.0.center" timestamp="1586494871965">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state width="1048" height="191" key="GridCell.Tab.0.center/0.23.1440.833/1440.-426.1920.1057@0.23.1440.833" timestamp="1585786720239" />
+    <state width="1178" height="264" key="GridCell.Tab.0.center/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586494871965" />
+    <state width="1178" height="264" key="GridCell.Tab.0.left" timestamp="1586494871965">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state width="1048" height="191" key="GridCell.Tab.0.left/0.23.1440.833/1440.-426.1920.1057@0.23.1440.833" timestamp="1585786720238" />
+    <state width="1178" height="264" key="GridCell.Tab.0.left/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586494871965" />
+    <state width="1178" height="264" key="GridCell.Tab.0.right" timestamp="1586494871966">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state width="1048" height="191" key="GridCell.Tab.0.right/0.23.1440.833/1440.-426.1920.1057@0.23.1440.833" timestamp="1585786720239" />
+    <state width="1178" height="264" key="GridCell.Tab.0.right/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586494871966" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

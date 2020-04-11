@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.platform.project.test.HomePageTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.276 sec <<< FAILURE!
+openHomePage2(com.platform.project.test.HomePageTest)  Time elapsed: 0.853 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.platform.project.commons.Commons.check(Commons.java:43)
+	at com.platform.project.test.HomePageTest.openHomePage2(HomePageTest.java:43)
+

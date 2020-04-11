@@ -1,0 +1,5 @@
+2020-04-09 22:00:01,917, 0(ms), [com.platform.project.commons.ReadPropertyFile] - Value in property file forbrowser is chrome
+2020-04-09 22:00:01,919, 2(ms), [com.platform.project.commons.Commons] - Enviorment value for browser is equal to null
+2020-04-09 22:00:03,510, 1593(ms), [com.platform.project.pageObjects.LoginPage] - Opening Login Page
+2020-04-09 22:00:06,053, 4136(ms), [com.platform.project.commons.Commons] - Welcome to iBusiness is visible
+2020-04-09 22:00:06,062, 4145(ms), [com.platform.project.commons.Commons] - Check condition is True
